@@ -1,6 +1,8 @@
 # Card
 
-A theme based on Landscape for [Hexo].
+A clean design theme based on Landscape for [Hexo]. 
+
+[Demo]
 
 ## Installation
 
@@ -107,3 +109,4 @@ All of them are enabled by default. You can edit them in `widget` setting.
 [Fancybox]: http://fancyapps.com/fancybox/
 [Font Awesome]: http://fontawesome.io/
 [Grunt]: http://gruntjs.com/
+[Demo]: https://www.chongcheung.com
